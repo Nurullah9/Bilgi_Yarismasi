@@ -1,0 +1,11 @@
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\obj\Debug\Bilgi_Yarismasi_v1.0.csproj.AssemblyReference.cache
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\obj\Debug\Bilgi_Yarismasi_v1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\obj\Debug\Bilgi_Yarismasi.Form1.resources
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\obj\Debug\Bilgi_Yarismasi_v1._0.Properties.Resources.resources
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\obj\Debug\Bilgi_Yarismasi_v1.0.csproj.GenerateResource.cache
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\obj\Debug\Bilgi_Yarismasi_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\bin\Debug\Bilgi_Yarismasi_v1.0.exe.config
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\bin\Debug\Bilgi_Yarismasi_v1.0.exe
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\bin\Debug\Bilgi_Yarismasi_v1.0.pdb
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\obj\Debug\Bilgi_Yarismasi_v1.0.exe
+C:\Users\Nurullah Sevinçkan\Desktop\C#\Bilgi_Yarismasi_v1.0\Bilgi_Yarismasi_v1.0\obj\Debug\Bilgi_Yarismasi_v1.0.pdb
