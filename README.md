@@ -1,1 +1,2 @@
-# Bilgi_Yarismasi
+# Bilgi Yarışması
+V1.0
