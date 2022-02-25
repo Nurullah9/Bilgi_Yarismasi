@@ -52,26 +52,12 @@ namespace Bilgi_Yarismasi
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
+    
         int soruno = 0, dogru = 0, yanlis = 0;
 
       
 
       
-
-        private void s_sayac_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void button3_Click_1(object sender, EventArgs e)
         {
@@ -135,7 +121,7 @@ namespace Bilgi_Yarismasi
             button4.Enabled = false;
             btn_sonraki.Enabled = true;
 
-            gizli_lab_2.Text = button2.Text;
+            gizli_lab_2.Text = button4.Text;
 
             if (gizli_lab_1.Text == gizli_lab_2.Text)
             {
