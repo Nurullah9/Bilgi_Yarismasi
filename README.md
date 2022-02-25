@@ -1,0 +1,1 @@
+# Bilgi_Yarismasi
