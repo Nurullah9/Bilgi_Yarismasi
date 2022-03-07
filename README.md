@@ -1,6 +1,6 @@
 # Bilgi Yarışması (V1.0)
-1)
->Bilgi yarışmasını indirmek için yapmanız gerekenler;
+
+1) >Bilgi yarışmasını indirmek için yapmanız gerekenler;
 
  ![1_1](https://user-images.githubusercontent.com/93034267/157030611-a103663c-9646-4436-b36e-087a9c313401.PNG)
 
