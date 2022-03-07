@@ -13,3 +13,15 @@
 ![last_1](https://user-images.githubusercontent.com/93034267/157031075-c7ef7380-0284-451e-a6d3-22cfa745cdb6.PNG)
 
 >exe uzantılı programı çalıştırdıktan sonra sizin için hazırladığım soruların keyfini çıkarın.
+
+# Foobar
+
+Foobar is a Python library for dealing with word pluralization.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
